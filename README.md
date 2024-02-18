@@ -1,6 +1,5 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
 **TheAxan/TheAxan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi
+
+I'm a student at Université de Sherbrooke.
+I'm currently diversifying my skillset and trying out different things to see which part of cs I like most.
+
